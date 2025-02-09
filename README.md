@@ -5,4 +5,3 @@ All projects are private, only VersionCheckerAPI is Public
 # 🥋 Crewmates
 - 👑 **egebege231** - **Founder**
 - ⚡ **aiden** - **Developer**
-- 
