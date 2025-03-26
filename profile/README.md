@@ -1,7 +1,7 @@
 # 💻 VoidStacks
-Small development organization, about 🍁 Minecraft Server **VoidMC.eu**
+Small development organization 🍁
 
-All projects are private, only VersionCheckerAPI is Public
+All projects are private, only vs-verAPI is Public
 # 🥋 Crewmates
 - 👑 **egebege231** - **Founder**
 - ⚡ **aiden** - **Developer**
