@@ -1,7 +1,7 @@
 # 💻 VoidStacks
 Small development organization 🍁
 
-All projects are private, only vs-verAPI is Public
+All projects are private.
 # 🥋 Crewmates
 - 👑 **egebege231** - **Founder**
-- ⚡ **aiden** - **Developer**
+- 👑 **Pawelusz** - **Co-Founder**
