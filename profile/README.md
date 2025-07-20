@@ -1,4 +1,4 @@
-# 💻 VoidStacks
+# 💻 PolarDev
 Small development organization 🍁
 
 All projects are private.
